@@ -1,0 +1,9 @@
+[submodule "signUp"]
+	path = signUp
+	url = git@github.com:Jac0bXu/signUp.git
+[submodule "rasPiLoadSlack"]
+	path = rasPiLoadSlack
+	url = git@github.com:Jac0bXu/rasPiLoadSlack.git
+[submodule "slack-linux-terminal"]
+	path = slack-linux-terminal
+	url = git@github.com:Jac0bXu/slack-linux-terminal.git
